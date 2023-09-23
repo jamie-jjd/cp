@@ -1,4 +1,4 @@
 _.cc
-*.in
+_.in
 *.out
 makefile
